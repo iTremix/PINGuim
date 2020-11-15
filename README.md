@@ -7,7 +7,7 @@ PINGui(m) é um pequeno programa em python que realiza um teste de ping e aprese
 Este programa foi feito em python3.8.
 
 ```bash
-pip3 -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ## Usar
