@@ -13,7 +13,7 @@ pip3 install -r requirements.txt
 ## Usar
 
 ```python
-python3 pinguim.py
+python3 main.py
 ```
 
 ## Contribuição
